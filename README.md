@@ -6,7 +6,6 @@ d'équipes PME/ETI sur l'IA opérationnelle.
 
 🌐 **Site** : [jeromeiavarone.fr](https://jeromeiavarone.fr)
 💼 **LinkedIn** : [jerome-iavarone](https://www.linkedin.com/in/jerome-iavarone/)
-🎯 **Malt** : [jeromeiavarone](https://www.malt.fr/profile/jeromeiavarone)
 📅 **Réserver 30 min** : [koalendar.com/rdv-jerome](https://koalendar.com/e/rdv-avec-jerome-iavarone)
 
 ---
